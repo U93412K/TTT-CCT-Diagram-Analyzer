@@ -1,0 +1,6 @@
+temperature,time,transformation
+700,2,Pearlite start
+650,5,Pearlite finish
+550,10,Bainite start
+450,20,Bainite finish
+300,100,Martensite region
